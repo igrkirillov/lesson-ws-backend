@@ -2,7 +2,7 @@
   "name": "chat-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "js/server.js",
+  "main": "server.js",
   "scripts": {
     "start": "node src/js/server.js"
   },
