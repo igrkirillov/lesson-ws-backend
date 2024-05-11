@@ -8,9 +8,6 @@
   },
   "author": "Netology",
   "license": "ISC",
-  "engines": {
-    "node": "^20.12.2"
-  },
   "type": "module",
   "dependencies": {
     "body-parser": "1.20.2",
